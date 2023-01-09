@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(150, 150, 150);
+}
+
+h1{
+font-size:30px;
+color: salmon;
+}
+
+h2{
+font-size: 30px;
+color: aqua;
+}
+
+.Big{
+font-size: 40px;
+}
+
+.Uppercase{
+text-transform: uppercase;
+}
+.Big.Uppercase{
+color: blueviolet;
+}
+
+h1 span{
+color: rgb(196, 0, 0);
+}
